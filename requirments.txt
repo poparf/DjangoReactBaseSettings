@@ -1,0 +1,19 @@
+Credit: https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/integrating-javascript-pipeline/
+
+npm init -y
+npm install webpack webpack-cli --save-dev
+
+
+to use a library just install it with npm with --save option
+npm install --save lodash
+then you can use it in js files
+
+npm run dev again to change the index_bundle.js
+
+
+For react:
+
+npm install --save-dev babel-loader @babel/core @babel/preset-env @babel/preset-react
+npm install --save react react-dom
+\\\
+! in this project folder this is already done.
